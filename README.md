@@ -2,6 +2,8 @@
 
 This is a simple Python script to make making of my Flutter projects easier. When I make Flutter project I always do the same few steps before starting to actually make mobile app. For example I always make few folders, such as Widgets and Pages, to make my Dart files more organized. After that I usually make an initial run of the app in the iPhone simulator.
 
+After making the script I added Terminal command on my MacOS and named it "createFlutter" and gave it a function to run my script. So now my script is fully automated I just have to write "createFlutter" and that's it!
+
 So everything I was doing by myself before, now is being done by this script.
 
 
