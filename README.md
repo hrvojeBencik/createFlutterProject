@@ -5,7 +5,7 @@ This is a simple Python script to make making of my Flutter projects easier. Whe
 So everything I was doing by myself before, now is being done by this script.
 
 
-##Future plan
+## Future plan
 In the future I might add some editing of the main.dart file, because that is also the thing I always do in my new Flutter project.
 
 
